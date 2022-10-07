@@ -1,4 +1,4 @@
-[![ChilPass](https://drive.google.com/uc?export=view&id=10R4nb1ZLLNRXWLcEufRF-FLm8Tk6KLS7)](https://github.com/HansWilter/ChilPass/releases/latest)
+[[ChilPass](https://drive.google.com/uc?export=view&id=10R4nb1ZLLNRXWLcEufRF-FLm8Tk6KLS7)](https://github.com/HansWilter/ChilPass/releases/latest)
 
 
 [Download Windows Application](https://github.com/HansWilter/ChilPass/releases/latest)
